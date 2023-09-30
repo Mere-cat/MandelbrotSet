@@ -1,4 +1,4 @@
-# **多媒體技術概論 作業二**
+# **Mandelbrot Set Animation Generator**
 
 408125029 王禮芳
 
